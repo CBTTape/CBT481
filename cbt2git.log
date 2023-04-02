@@ -1,0 +1,18 @@
+2023-04-03 00:36:26.990732 - Initialized conversion of CBT481
+2023-04-03 00:36:27.017393 - Received CBT.V504.FILE481.PDS from FILE481.XMI 
+2023-04-03 00:36:27.018822 - Found CKDELMEM.bin containing application/octet-stream, moved to PDS/CKDELMEM
+2023-04-03 00:36:27.019996 - Found CKIEBGEN.bin containing application/octet-stream, moved to PDS/CKIEBGEN
+2023-04-03 00:36:27.021044 - Found CKIEBGEO.bin containing application/octet-stream, moved to PDS/CKIEBGEO
+2023-04-03 00:36:27.022307 - Found CKIEBG06.bin containing application/octet-stream, moved to PDS/CKIEBG06
+2023-04-03 00:36:27.023437 - Found CKIEBG07.bin containing application/octet-stream, moved to PDS/CKIEBG07
+2023-04-03 00:36:27.024491 - Found CKLEVEL.bin containing application/octet-stream, moved to PDS/CKLEVEL
+2023-04-03 00:36:27.025496 - Found CKLOCMEM.bin containing application/octet-stream, moved to PDS/CKLOCMEM
+2023-04-03 00:36:27.026484 - Found CKRENMEM.bin containing application/octet-stream, moved to PDS/CKRENMEM
+2023-04-03 00:36:27.027491 - Found CKSTJOB.bin containing application/octet-stream, moved to PDS/CKSTJOB
+2023-04-03 00:36:27.028452 - Found CKSYMBOL.bin containing application/octet-stream, moved to PDS/CKSYMBOL
+2023-04-03 00:36:27.029438 - Found CKYAESTA.bin containing application/octet-stream, moved to PDS/CKYAESTA
+2023-04-03 00:36:27.030430 - Found LIMENLOG.bin containing application/octet-stream, moved to PDS/LIMENLOG
+2023-04-03 00:36:27.031423 - Found MENSAJE.bin containing application/octet-stream, moved to PDS/MENSAJE
+2023-04-03 00:36:27.032366 - Found PRESTA4.bin containing application/octet-stream, moved to PDS/PRESTA4
+2023-04-03 00:36:27.033331 - Found VERDSN.bin containing application/octet-stream, moved to PDS/VERDSN
+2023-04-03 00:36:27.034391 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
